@@ -1,0 +1,14 @@
+@font-face {
+  font-family: mulish;
+  src: url("../../src/assets/font/Mulish-VariableFont_wght.ttf");
+}
+
+* {
+  font-family: mulish;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}

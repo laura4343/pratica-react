@@ -1,0 +1,10 @@
+.square {
+  color: white;
+  font-weight: normal;
+  padding: 10px;
+  width: fit-content;
+  height: fit-content;
+  border-radius: 8px;
+  background-color: #ff0000;
+  margin-bottom: 20px;
+}

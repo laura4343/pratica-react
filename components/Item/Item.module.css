@@ -1,0 +1,51 @@
+.titulo {
+}
+
+.preco {
+  color: #ff0000;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.descricao {
+  color: #585858;
+  font-size: 12px;
+}
+
+img {
+  padding: 10px;
+  width: 100px;
+  height: 100px;
+}
+
+.sacola {
+  width: 50px;
+  height: 50px;
+}
+
+.separacao {
+  display: flex;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.container {
+  width: fit-content;
+  height: fit-content;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  box-shadow: #b4b4b4 0px 0px 5px;
+  border-radius: 3px;
+}
+
+.texts {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  padding: 20px;
+}
+
+h2,
+p {
+  margin: 0;
+}

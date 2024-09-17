@@ -1,0 +1,19 @@
+.container {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: row;
+  width: 600px;
+  border-radius: 10px;
+  box-shadow: #b4b4b4 0px 0px 5px;
+  align-items: center;
+  padding: 5px;
+}
+
+#meat {
+  width: 30px;
+  height: 30px;
+}
+
+.label {
+  color: #b4b4b4;
+}
